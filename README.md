@@ -1,7 +1,7 @@
 ### Profile
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Toshiyana)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiyana&layout=compact)
 
 
 <!--
