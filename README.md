@@ -1,4 +1,8 @@
-### Hi there 👋
+### Profile
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+
 
 <!--
 **Toshiyana/Toshiyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
