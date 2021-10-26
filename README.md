@@ -1,4 +1,4 @@
-### Profile
+# Profile
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Toshiyana)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiyana&layout=compact)
