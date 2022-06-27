@@ -6,7 +6,7 @@
 
 ## MyWorks
 - [WordsTodo](https://github.com/Toshiyana/messageTodo)
-- [ResistorCheckr](https://github.com/Toshiyana/ResistorChecker)
+- [ResistorChecker](https://github.com/Toshiyana/ResistorChecker)
 
 ## Skills
 
