@@ -4,12 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiyana)](https://github.com/Toshiyana/github-readme-stats)
 
-## MyWorks
+## My Works
 - [WordsTodo](https://github.com/Toshiyana/messageTodo)
 - [ResistorChecker](https://github.com/Toshiyana/ResistorChecker)
 - [Linebot-MovieRanking](https://github.com/Toshiyana/linebot-movie)
 
-## MyLearning
+## My Study
 - [iOS Devlopment]()
 - [Algorithm]()
 
