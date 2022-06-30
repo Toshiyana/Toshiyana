@@ -9,6 +9,10 @@
 - [ResistorChecker](https://github.com/Toshiyana/ResistorChecker)
 - [Linebot-MovieRanking](https://github.com/Toshiyana/linebot-movie)
 
+## MyLearning
+- [iOS Devlopment]()
+- [Algorithm]()
+
 ## Skills
 
 <h3 align="left">Languages and Tools:</h3>
