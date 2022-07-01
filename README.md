@@ -14,8 +14,10 @@
 - [Algorithm (C++)](https://github.com/Toshiyana/leetcode-cpp)
 
 ## Skills
-
 <h3 align="left">Languages and Tools:</h3>
+
+### Main
+
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
@@ -29,4 +31,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+</p>
+
+### Sub
+<p align="left">
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  </a>
 </p>
