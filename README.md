@@ -14,7 +14,6 @@
 - [Algorithm (C++)](https://github.com/Toshiyana/leetcode-cpp)
 
 ## Skills
-<h3 align="left">Languages and Tools:</h3>
 
 ### Main
 
