@@ -35,6 +35,18 @@
 ### Sub
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/wiki/Toshiyana/Toshiyana/images/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/wiki/Toshiyana/Toshiyana/images/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/wiki/Toshiyana/Toshiyana/images/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/wiki/Toshiyana/Toshiyana/images/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/wiki/Toshiyana/Toshiyana/images/heroku-plain.svg" alt="heroku" width="40" height="40"/>
   </a>
 </p>
