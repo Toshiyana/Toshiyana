@@ -1,3 +1,2 @@
 # Profile
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiyana)](https://github.com/Toshiyana/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Toshiyana&show_icons=true&locale=en&layout=compact" alt="Toshiyana"/>
